@@ -14,4 +14,6 @@ dependencies:
   - anaconda==2022.10=py39_0
   - anaconda-navigator==2.3.2
   - navigator-updater
-prefix: C:\Users\Caravaggio\anaconda3
+  - numpy
+  - matplotlib
+
