@@ -1,8 +1,0 @@
-matplotlib==3.5.2
-numpy ==1.21.5
-session_info==1.0.0
-IPython==7.31.1
-jupyter_client==7.3.4
-jupyter_core==4.11.1
-jupyterlab==3.4.4
-notebook==6.4.12
